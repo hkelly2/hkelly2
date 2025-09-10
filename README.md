@@ -7,8 +7,10 @@ Things I like to do:
 * Sewing soft sculptures
 * Drawing strange images
 * Sleeing for up to 8 hours
+
 Here's some cool code:
-'''
+
+```java
 public class Kelly1 {
     public static void main(String[] args) {
         int total = 0;
@@ -23,5 +25,9 @@ public class Kelly1 {
         System.out.println(total);
     }
 }
-'''
-![Oklahoma City University](https://www.okcu.edu/images/OCU_logo_stacked.png "OKCU")
+```
+
+[Cool Website :D](https://hkelly2.github.io/PortfolioSite/)
+
+Burger:
+![Burger](https://static01.nyt.com/images/2022/06/27/dining/kc-mushroom-beef-burgers/merlin_209008674_b3fa58fa-9bb1-4cfe-a08a-40b4dda0de78-jumbo.jpg "Burger")
